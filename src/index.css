@@ -1,0 +1,46 @@
+body {
+  background-color: #e6ecf0;
+}
+/*Nav*/
+
+
+.navbar {
+  margin-bottom: 1rem;
+}
+.navbar p {
+  font-weight: bold;
+  color: white;
+}
+
+.navbar a {
+  font-weight: bold;
+  color: white;
+}
+
+.navbar a:hover {
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+ul.nav.navbar-nav li{
+  margin: 0 0.5rem;
+}
+
+.onboarding > .navbar {
+  background-image: url("./images/nav-bg.png");
+  background-size: 100% 100%;
+}
+
+
+/*MAin*/
+
+.thumbnail-photo {
+  background-color:  #b1dfe7;
+  margin: 5px 5px;
+  padding: 10px;
+}
+.thumbnail-album {
+  background-color:  #47d147;
+  margin: 5px 5px;
+  padding: 10px;
+}
